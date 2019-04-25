@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name follow_focus_hw)(type KiCad)(uri /home/eduardo/Repos/Hardware/follow_focus_hw/follow_focus_hw.pretty)(options "")(descr ""))
+  (lib (name follow_focus_hw)(type KiCad)(uri C:/Users/andre/Documents/GitHub/follow_focus_hw/follow_focus_hw.pretty)(options "")(descr ""))
 )

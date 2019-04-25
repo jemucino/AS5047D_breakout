@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name follow_focus_hw)(type Legacy)(uri /home/eduardo/Repos/Hardware/follow_focus_hw/follow_focus_hw.lib)(options "")(descr ""))
+  (lib (name AS5047D_breakout-rescue)(type Legacy)(uri ${KIPRJMOD}/AS5047D_breakout-rescue.lib)(options "")(descr ""))
 )
